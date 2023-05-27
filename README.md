@@ -22,7 +22,7 @@ As a user, I want to display information about selected dog breed so that I can 
 ## Installation
 
 You can check Deployed app here:
-
+https://dog-breeds-info.netlify.app/
 ## Usage
 
 Use selection bar to choose breed and display info about it
