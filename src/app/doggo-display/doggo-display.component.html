@@ -1,1 +1,17 @@
-<p>doggo-display works!</p>
+<div>
+    <mat-form-field>
+        <mat-select [formControl]="dogCtrl" placeholder="Breed" #singleSelect>
+            <mat-option>
+                <ngx-mat-select-search [formControl]="dogFilterCtrl"
+                placeholderLabel="Pick breed"
+                noEntriesFoundLabel="'No matching breed found'">
+            </ngx-mat-select-search>
+            </mat-option>
+
+            <mat-option *ngFor="let dog of filteredDogs | async " [value]="dog">
+                {{dog.name}}
+            </mat-option>
+        </mat-select>
+    </mat-form-field>
+    
+</div>
