@@ -4,3 +4,13 @@ div{
     justify-content: center;
     flex-direction: column;
 }
+
+.dog-info{
+    width: 250px;
+
+}
+
+.dog-info img{
+    padding: 5px 15px;
+    border-radius: 10%;
+}
