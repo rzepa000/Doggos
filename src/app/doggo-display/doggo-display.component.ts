@@ -23,32 +23,32 @@ export class DoggoDisplayComponent {
     {
     id: '1', 
     name: 'Golden retriever', 
-    description:'lorem ipsum', 
-    image: 'https://www.petspyjamas.com/uploads/2015/08/shutterstock_150238433.jpg'
+    description:'The Golden Retriever is a Scottish breed of retriever dog of medium size. It is characterised by a gentle and affectionate nature and a striking golden coat. It is commonly kept as a pet and is among the most frequently registered breeds in several Western countries.', 
+    image: 'https://www.petlovers.com.ng/wp-content/uploads/2017/01/golden-retriever-price-in-nigeria-buy-a-dog.jpg'
     },
     {
     id: '2', 
     name: 'Labrador retriever', 
-    description:'lorem ipsum', 
-    image: 'https://www.petspyjamas.com/uploads/2015/08/shutterstock_150238433.jpg'
+    description:'The Labrador Retriever or simply Labrador, is a British breed of retriever gun dog. It was developed in the United Kingdom from fishing dogs imported from the colony of Newfoundland, and was named after the Labrador region of that colony.', 
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Labrador_on_Quantock_%282175262184%29.jpg/1280px-Labrador_on_Quantock_%282175262184%29.jpg'
     },
     {
     id: '3', 
     name: 'French bulldog', 
-    description:'lorem ipsum', 
-    image: 'https://www.petspyjamas.com/uploads/2015/08/shutterstock_150238433.jpg'
+    description:'The French Bulldog, French: Bouledogue Français, is a French breed of companion dog or toy dog. It appeared in Paris in the mid-nineteenth century, apparently the result of cross-breeding of Toy Bulldogs imported from England and local Parisian ratters.', 
+    image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/2008-07-28_Dog_at_Frolick_Field.jpg'
     },
     {
     id: '4', 
     name: 'Beagle', 
-    description:'lorem ipsum', 
-    image: 'https://www.petspyjamas.com/uploads/2015/08/shutterstock_150238433.jpg'
+    description:'The beagle is a breed of small scent hound, similar in appearance to the much larger foxhound. The beagle was developed primarily for hunting hare, known as beagling.', 
+    image: 'https://upload.wikimedia.org/wikipedia/commons/5/55/Beagle_600.jpg'
     },
     {
     id: '5', 
-    name: 'German shepherd dog', 
-    description:'lorem ipsum', 
-    image: 'https://www.petspyjamas.com/uploads/2015/08/shutterstock_150238433.jpg'
+    name: 'German shepherd', 
+    description:'The German Shepherd is a German breed of working dog of medium to large size. The breed was developed by Max von Stephanitz using various traditional German herding dogs from 1899. It was originally bred as a herding dog, for herding sheep. ', 
+    image: 'https://upload.wikimedia.org/wikipedia/commons/d/d0/German_Shepherd_-_DSC_0346_%2810096362833%29.jpg'
     }  
     
   ];
